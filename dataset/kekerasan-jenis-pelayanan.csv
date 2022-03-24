@@ -1,0 +1,187 @@
+"tahun","bulan","jenis_pelayanan","jumlah_korban_terlayani"
+2020,1,"Konseling psikologi",91
+2020,1,"Mediasi",0
+2020,1,"Konsultasi Hukum",108
+2020,1,"Pendampingan",28
+2020,1,"Pelayanan Medis",8
+2020,1,"Rujukan Rumah Aman/Shelter",3
+2020,1,"Penjangkauan",31
+2020,1,"Home Visit",10
+2020,2,"Konseling psikologi",92
+2020,2,"Mediasi",1
+2020,2,"Konsultasi Hukum",89
+2020,2,"Pendampingan",26
+2020,2,"Pelayanan Medis",2
+2020,2,"Rujukan Rumah Aman/Shelter",6
+2020,2,"Penjangkauan",20
+2020,2,"Home Visit",12
+2020,3,"Konseling psikologi",39
+2020,3,"Mediasi",2
+2020,3,"Konsultasi Hukum",191
+2020,3,"Pendampingan",102
+2020,3,"Pelayanan Medis",0
+2020,3,"Rujukan Rumah Aman/Shelter",2
+2020,3,"Penjangkauan",37
+2020,3,"Home Visit",3
+2020,4,"Konseling psikologi",250
+2020,4,"Mediasi",1
+2020,4,"Konsultasi Hukum",140
+2020,4,"Pendampingan",63
+2020,4,"Pelayanan Medis",2
+2020,4,"Rujukan Rumah Aman/Shelter",1
+2020,4,"Penjangkauan",17
+2020,4,"Home Visit",0
+2020,5,"Konseling psikologi",188
+2020,5,"Mediasi",0
+2020,5,"Konsultasi Hukum",102
+2020,5,"Pendampingan",34
+2020,5,"Pelayanan Medis",1
+2020,5,"Rujukan Rumah Aman/Shelter",5
+2020,5,"Penjangkauan",16
+2020,5,"Home Visit",0
+2020,6,"Konseling psikologi",384
+2020,6,"Mediasi",2
+2020,6,"Konsultasi Hukum",304
+2020,6,"Pendampingan",133
+2020,6,"Pelayanan Medis",1
+2020,6,"Rujukan Rumah Aman/Shelter",9
+2020,6,"Penjangkauan",56
+2020,6,"Home Visit",11
+2020,7,"Pemeriksaan Psikologi",92
+2020,7,"Konseling",72
+2020,7,"Hasil Pemeriksaan Psikologi",13
+2020,7,"Pendampingan Psikologi",49
+2020,7,"Pengukuran Awal",42
+2020,7,"Psikoedukasi/Psikososial",88
+2020,7,"Saksi Ahli",1
+2020,7,"Konsultasi Hukum",273
+2020,7,"Pendampingan",26
+2020,7,"Pendampingan Kepolisian",104
+2020,7,"Pendampingan Pengadilan",33
+2020,7,"Penjangkauan Paralegal URC",27
+2020,7,"Penjangkauan Paralegal Pusat",9
+2020,7,"Penjangkauan Pendamping Pos",0
+2020,7,"Mediasi",0
+2020,7,"Rujukan Rumah Aman/Shelter",3
+2020,7,"Pemulangan",2
+2020,7,"Hospital Visit",9
+2020,7,"School Visit",1
+2020,7,"Home Visit",12
+2020,7,"Penjangkauan Pendamping Korban",1
+2020,7,"Pendampingan Pendamping Korban",14
+2020,7,"Pelayanan Medis",1
+2020,8,"Pemeriksaan Psikologi",49
+2020,8,"Konseling",34
+2020,8,"Hasil Pemeriksaan Psikologi",14
+2020,8,"Pendampingan Psikologi",16
+2020,8,"Pengukuran Awal",52
+2020,8,"Psikoedukasi/Psikososial",87
+2020,8,"Saksi Ahli",0
+2020,8,"Konsultasi Hukum",259
+2020,8,"Pendampingan Kepolisian",31
+2020,8,"Pendampingan Pengadilan",14
+2020,8,"Penjangkauan Paralegal URC",11
+2020,8,"Penjangkauan Paralegal Pusat",2
+2020,8,"Penjangkauan Pos Pengaduan",11
+2020,8,"Mediasi",0
+2020,8,"Rujukan Rumah Aman/Shelter",1
+2020,8,"Pemulangan",1
+2020,8,"Hospital Visit",4
+2020,8,"School Visit",0
+2020,8,"Home Visit",5
+2020,8,"Penjangkauan Pendamping Korban",4
+2020,8,"Pendampingan Pendamping Korban",1
+2020,8,"Pelayanan Medis",1
+2020,9,"Pemeriksaan Psikologi",105
+2020,9,"Konseling",63
+2020,9,"Hasil Pemeriksaan Psikologi",27
+2020,9,"Pendampingan Psikologi",27
+2020,9,"Pengukuran Awal",39
+2020,9,"Psikoedukasi/Psikososial",79
+2020,9,"BAP Ahli",1
+2020,9,"Saksi Ahli",2
+2020,9,"Konsultasi Hukum",280
+2020,9,"Pendampingan",20
+2020,9,"Pendampingan Kepolisian",38
+2020,9,"Pendampingan Pengadilan",43
+2020,9,"Penjangkauan Paralegal URC",9
+2020,9,"Penjangkauan Paralegal Pusat",2
+2020,9,"Penjangkauan Pos Pengaduan",22
+2020,9,"Mediasi",3
+2020,9,"Rujukan Rumah Aman/Shelter",9
+2020,9,"Pemulangan",7
+2020,9,"Hospital Visit",5
+2020,9,"School Visit",0
+2020,9,"Home Visit",2
+2020,9,"Penjangkauan Pendamping Korban",2
+2020,9,"Pendampingan Pendamping Korban",9
+2020,9,"Pelayanan Medis",3
+2020,10,"Pemeriksaan Psikologi",37
+2020,10,"Konseling",39
+2020,10,"Hasil Pemeriksaan Psikologi",14
+2020,10,"Pendampingan Psikologi",38
+2020,10,"Pengukuran Awal",28
+2020,10,"Psikoedukasi/Psikososial",57
+2020,10,"Assesmsen Resiko",5
+2020,10,"Saksi Ahli",0
+2020,10,"Konsultasi Hukum",268
+2020,10,"Pendampingan Kepolisian",114
+2020,10,"Pendampingan Pengadilan",48
+2020,10,"Penjangkauan Paralegal URC",36
+2020,10,"Penjangkauan Paralegal Pusat",3
+2020,10,"Penjangkauan Pos Pengaduan",10
+2020,10,"Mediasi",6
+2020,10,"Rujukan Rumah Aman/Shelter",1
+2020,10,"Pemulangan",11
+2020,10,"Hospital Visit",0
+2020,10,"School Visit",1
+2020,10,"Home Visit",4
+2020,10,"Penjangkauan Pendamping Korban",1
+2020,10,"Pendampingan Pendamping Korban",6
+2020,10,"Pelayanan Medis",0
+2020,11,"Pemeriksaan Psikologi",37
+2020,11,"Konseling",48
+2020,11,"Hasil Pemeriksaan Psikologi",7
+2020,11,"Pendampingan Psikologi",20
+2020,11,"Pengukuran Awal",31
+2020,11,"Psikoedukasi/Psikososial",60
+2020,11,"Assesmsen Resiko",1
+2020,11,"Saksi Ahli",5
+2020,11,"Konsultasi Hukum",280
+2020,11,"Pendampingan Kepolisian",62
+2020,11,"Pendampingan Pengadilan",42
+2020,11,"Penjangkauan Paralegal URC",15
+2020,11,"Penjangkauan Paralegal Pusat",0
+2020,11,"Penjangkauan Pos Pengaduan",23
+2020,11,"Mediasi",0
+2020,11,"Rujukan Rumah Aman/Shelter",6
+2020,11,"Pemulangan",2
+2020,11,"Hospital Visit",1
+2020,11,"School Visit",0
+2020,11,"Home Visit",1
+2020,11,"Penjangkauan Pendamping Korban",1
+2020,11,"Pendampingan Pendamping Korban",11
+2020,11,"Pelayanan Medis",1
+2020,12,"Pemeriksaan Psikologi",39
+2020,12,"Konseling",40
+2020,12,"Hasil Pemeriksaan Psikologi",13
+2020,12,"Pendampingan Psikologi",25
+2020,12,"Pengukuran Awal",35
+2020,12,"Psikoedukasi/Psikososial",76
+2020,12,"Assesmsen Resiko",1
+2020,12,"Saksi Ahli",0
+2020,12,"Konsultasi Hukum",200
+2020,12,"Pendampingan Kepolisian",59
+2020,12,"Pendampingan Pengadilan",27
+2020,12,"Penjangkauan Paralegal URC",7
+2020,12,"Penjangkauan Paralegal Pusat",9
+2020,12,"Penjangkauan Pos Pengaduan",4
+2020,12,"Mediasi",1
+2020,12,"Rujukan Rumah Aman/Shelter",1
+2020,12,"Pemulangan",1
+2020,12,"Hospital Visit",4
+2020,12,"School Visit",0
+2020,12,"Home Visit",3
+2020,12,"Penjangkauan Pendamping Korban",0
+2020,12,"Pendampingan Pendamping Korban",6
+2020,12,"Pelayanan Medis",0
