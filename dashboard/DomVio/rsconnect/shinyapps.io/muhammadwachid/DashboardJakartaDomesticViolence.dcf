@@ -1,0 +1,13 @@
+name: DashboardJakartaDomesticViolence
+title: DashboardJakartaDomesticViolence
+username:
+account: muhammadwachid
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5926703
+bundleId: 5728445
+url: https://muhammadwachid.shinyapps.io/DashboardJakartaDomesticViolence/
+when: 1648243090.27979
+lastSyncTime: 1648243090.27979
+asMultiple: FALSE
+asStatic: FALSE
